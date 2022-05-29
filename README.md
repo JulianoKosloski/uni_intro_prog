@@ -1,2 +1,2 @@
 # Python
-Small projects to learn Python
+Small projects to practice Python
