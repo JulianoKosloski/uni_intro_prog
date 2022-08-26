@@ -1,1 +1,1 @@
-Repository for university projects (Intro to programming with Python) 
+Repository for university projects (Intro to programming with Python). 
